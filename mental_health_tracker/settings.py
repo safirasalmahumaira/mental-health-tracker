@@ -28,7 +28,7 @@ PRODUCTION = os.getenv("PRODUCTION", False)
 DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "safira-salma-mentalhealthtrackers.pbp.cs.ui.ac.id"]
-#comment
+#commentS
 
 # Application definition
 
